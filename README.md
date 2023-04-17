@@ -17,4 +17,4 @@ Random I/O
 Asynchronous I/O
     Wrote a routine which prints each character of my name to 'stdout' over and over again until it has completed writing/creating a file called 'asynchronous_output.txt'.
 
-Wrote three programs (10 pts each) to read a large file (15 MB), one uses read(), the second uses readv() and the third uses fread().  Compared their speeds in reading LoremIpsum.txt
+Wrote three programs to read a large file (15 MB), one uses read(), the second uses readv() and the third uses fread().  Compared their speeds in reading LoremIpsum.txt
